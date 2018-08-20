@@ -1,0 +1,12 @@
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie - Kopie\WindowsFormsApp3\bin\x64\Debug\WindowsFormsApp3.exe.config
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie - Kopie\WindowsFormsApp3\bin\x64\Debug\WindowsFormsApp3.exe
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie - Kopie\WindowsFormsApp3\bin\x64\Debug\WindowsFormsApp3.pdb
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie - Kopie\WindowsFormsApp3\bin\x64\Debug\MySql.Data.dll
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie - Kopie\WindowsFormsApp3\bin\x64\Debug\MySql.Data.xml
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie - Kopie\WindowsFormsApp3\obj\x64\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie - Kopie\WindowsFormsApp3\obj\x64\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie - Kopie\WindowsFormsApp3\obj\x64\Debug\WindowsFormsApp3.Resource1.resources
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie - Kopie\WindowsFormsApp3\obj\x64\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie - Kopie\WindowsFormsApp3\obj\x64\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie - Kopie\WindowsFormsApp3\obj\x64\Debug\WindowsFormsApp3.exe
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie - Kopie\WindowsFormsApp3\obj\x64\Debug\WindowsFormsApp3.pdb

@@ -1,0 +1,87 @@
+c:\users\titur\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+c:\users\titur\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+c:\users\titur\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+c:\users\titur\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+c:\users\titur\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+c:\users\titur\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+c:\users\titur\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Chess.csproj.GenerateResource.Cache
+c:\users\titur\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+c:\users\titur\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+c:\users\titur\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\titur\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Resource1.resources
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Resource1.resources
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie\WindowsFormsApp3\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Resource1.resources
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie\WindowsFormsApp3\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie\WindowsFormsApp3\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie\WindowsFormsApp3\bin\Debug\MySql.Data.xml
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie - Kopie\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie - Kopie\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie - Kopie\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie - Kopie\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie - Kopie\WindowsFormsApp3\bin\Debug\MySql.Data.xml
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie - Kopie\WindowsFormsApp3\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie - Kopie\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie - Kopie\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie - Kopie\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Resource1.resources
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie - Kopie\WindowsFormsApp3\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie - Kopie\WindowsFormsApp3\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie - Kopie\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\AZUBI_WG\source\repos\WindowsFormsApp3 - Kopie - Kopie\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\AZUBI_WG\source\repos\Chess\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\AZUBI_WG\source\repos\Chess\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\AZUBI_WG\source\repos\Chess\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\AZUBI_WG\source\repos\Chess\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+C:\Users\AZUBI_WG\source\repos\Chess\WindowsFormsApp3\bin\Debug\MySql.Data.xml
+C:\Users\AZUBI_WG\source\repos\Chess\WindowsFormsApp3\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\AZUBI_WG\source\repos\Chess\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\AZUBI_WG\source\repos\Chess\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\AZUBI_WG\source\repos\Chess\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Resource1.resources
+C:\Users\AZUBI_WG\source\repos\Chess\WindowsFormsApp3\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\AZUBI_WG\source\repos\Chess\WindowsFormsApp3\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\AZUBI_WG\source\repos\Chess\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\AZUBI_WG\source\repos\Chess\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\AZUBI_WG\source\repos\Chess bitboards\WindowsFormsApp3\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\AZUBI_WG\source\repos\Chess bitboards\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\AZUBI_WG\source\repos\Chess bitboards\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\AZUBI_WG\source\repos\Chess bitboards\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Resource1.resources
+C:\Users\AZUBI_WG\source\repos\Chess bitboards\WindowsFormsApp3\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\AZUBI_WG\source\repos\Chess bitboards\WindowsFormsApp3\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\AZUBI_WG\source\repos\Chess bitboards\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\AZUBI_WG\source\repos\Chess bitboards\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\AZUBI_WG\source\repos\Chess bitboards\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\AZUBI_WG\source\repos\Chess bitboards\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\AZUBI_WG\source\repos\Chess bitboards\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\AZUBI_WG\source\repos\Chess bitboards\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+C:\Users\AZUBI_WG\source\repos\Chess bitboards\WindowsFormsApp3\bin\Debug\MySql.Data.xml
+C:\Users\titur\source\repos\Chess Bitboards\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\titur\source\repos\Chess Bitboards\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\titur\source\repos\Chess Bitboards\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\titur\source\repos\Chess Bitboards\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+C:\Users\titur\source\repos\Chess Bitboards\WindowsFormsApp3\bin\Debug\MySql.Data.xml
+C:\Users\titur\source\repos\Chess Bitboards\WindowsFormsApp3\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\titur\source\repos\Chess Bitboards\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\titur\source\repos\Chess Bitboards\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\titur\source\repos\Chess Bitboards\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Resource1.resources
+C:\Users\titur\source\repos\Chess Bitboards\WindowsFormsApp3\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\titur\source\repos\Chess Bitboards\WindowsFormsApp3\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\titur\source\repos\Chess Bitboards\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\titur\source\repos\Chess Bitboards\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
