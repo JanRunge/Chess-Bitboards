@@ -85,3 +85,17 @@ C:\Users\titur\source\repos\Chess Bitboards\WindowsFormsApp3\obj\Debug\Chess.csp
 C:\Users\titur\source\repos\Chess Bitboards\WindowsFormsApp3\obj\Debug\Chess.csproj.CoreCompileInputs.cache
 C:\Users\titur\source\repos\Chess Bitboards\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
 C:\Users\titur\source\repos\Chess Bitboards\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\titur\source\repos\Chess-Bitboards\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\titur\source\repos\Chess-Bitboards\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\titur\source\repos\Chess-Bitboards\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\titur\source\repos\Chess-Bitboards\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+C:\Users\titur\source\repos\Chess-Bitboards\WindowsFormsApp3\bin\Debug\MySql.Data.xml
+C:\Users\titur\source\repos\Chess-Bitboards\WindowsFormsApp3\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\titur\source\repos\Chess-Bitboards\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\titur\source\repos\Chess-Bitboards\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\titur\source\repos\Chess-Bitboards\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Resource1.resources
+C:\Users\titur\source\repos\Chess-Bitboards\WindowsFormsApp3\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\titur\source\repos\Chess-Bitboards\WindowsFormsApp3\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\titur\source\repos\Chess-Bitboards\WindowsFormsApp3\obj\Debug\Chess.csproj.CopyComplete
+C:\Users\titur\source\repos\Chess-Bitboards\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\titur\source\repos\Chess-Bitboards\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
